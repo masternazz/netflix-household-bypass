@@ -83,6 +83,13 @@ concrete examples — substitute your own throughout.
 **You do NOT need:** to route all traffic, install anything on the Roku, or touch
 Netflix's own settings. This is entirely router-side.
 
+**New to OPNsense, or want exact click-by-click menu paths instead of the
+condensed version below?** → [WALKTHROUGH.md](WALKTHROUGH.md)
+
+**Not on OPNsense** (pfSense, OpenWrt, DD-WRT, or any other router OS)?
+→ [OTHER-ROUTERS.md](OTHER-ROUTERS.md) — same five building blocks, generic
+instructions plus platform-specific notes.
+
 ---
 
 ## Part 1 — The WireGuard tunnel itself
