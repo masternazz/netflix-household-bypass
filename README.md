@@ -261,19 +261,6 @@ starts clean, no `NW-2-5` or `E106`/`M7111-5059`.
 
 ---
 
-## The diagram
-
-The animation at the top is built with [Remotion](https://www.remotion.dev) — source
-in [`animation/`](animation). To re-render it:
-
-```bash
-cd animation
-npm install
-npx remotion render NetworkDiagram out/diagram.mp4
-```
-
----
-
 ## License
 
 [MIT](LICENSE) — use this however is useful to you.
